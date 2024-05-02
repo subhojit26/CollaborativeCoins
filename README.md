@@ -1,5 +1,7 @@
 A full-stack nextJs application which is an online platform dedicated to fueling the passions and dreams of creators worldwide.  Powered by Razorpay, a user can create his profile and then start funding other people who are working on their projects.
 
+![WhatsApp Image 2024-05-02 at 4 36 17 PM](https://github.com/subhojit26/CollaborativeCoins/assets/98642337/0d1c02ca-33c2-4bf5-ac91-295752e7e7a9)
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
