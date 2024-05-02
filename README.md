@@ -1,3 +1,7 @@
+A full-stack nextJs application which is an online platform dedicated to fueling the passions and dreams of creators worldwide.  Powered by Razorpay, a user can create his profile and then start funding other people who are working on their projects.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
